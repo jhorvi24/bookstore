@@ -7,4 +7,4 @@
 * Requerimiento 2
 
 ## Arquitectura
-(img/Arquitectura.png)
+![arquitectura](img/Arquitectura.png)

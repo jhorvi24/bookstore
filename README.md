@@ -2,4 +2,4 @@
 
 ## Planificación
 
-### Requerimientos
+## Requerimientos

@@ -7,3 +7,4 @@
 * Requerimiento 2
 
 ## Arquitectura
+(img/Arquitectura.png)

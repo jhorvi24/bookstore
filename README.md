@@ -7,4 +7,4 @@
 * Requerimiento 2
 
 ## Arquitectura
-![arquitectura](img/Arquitectura.png)
+![arquitectura aws](img/Arquitectura.png)

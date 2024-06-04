@@ -10,6 +10,6 @@
 ![arquitectura aws](img/Arquitectura.png)
 
 ## AWS CLI
-'''
+```
 aws create-stack --stack-name network-stack --template-body file://network.yml
-'''
+```

@@ -5,3 +5,5 @@
 ### Requerimientos
 * Requerimiento 1
 * Requerimiento 2
+
+## Arquitectura
